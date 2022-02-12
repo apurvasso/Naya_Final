@@ -1,1 +1,1 @@
-# MiniProFoodWasteManagement
+.
